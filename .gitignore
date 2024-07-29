@@ -1,0 +1,5 @@
+.vs/
+
+# Exclude build and output directories
+bin/
+obj/
